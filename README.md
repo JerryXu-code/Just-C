@@ -17,5 +17,12 @@ __[question 1004](http://www.accoders.com/problem.php?id=1004)__```main(){int a,
 __[question 1005](http://www.accoders.com/problem.php?id=1005)__```main(){int a,b;scanf("%d%d",&a,&b);printf("%d %d",(a-b)/2,(a+b)/2);}```
 ***
 __[question 1006](http://www.accoders.com/problem.php?id=1006)__```main(){int a;scanf("%d",&a);printf("%d %d",a*3/4,a*5/4);}```
-**
-__[question 1007](http://www.accoders.com/problem.php?id=1007)__
+***
+__[question 1007](http://www.accoders.com/problem.php?id=1007)__```main(){float a;scanf("%f",&a);printf("%.2f",a/5);}```
+***
+__[question 1008](http://www.accoders.com/problem.php?id=1008)__```main(){int a,b;scanf("%d%d",&a,&b);printf("%d %.2f",a%b,(float)a/b);}```
+***
+__[question 1009](http://www.accoders.com/problem.php?id=1009)__```main(){double a,b;scanf("%lf%lf",&a,&b);printf("%.2f",(a+b)*(a+b)/4);}```
+***
+__[question 1010](http://www.accoders.com/problem.php?id=1010)__```main(){float a,b,c;scanf("%f%f%f",&a,&b,&c);printf("%.2f",(a-b)/c);}```
+***
