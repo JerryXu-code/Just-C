@@ -1,3 +1,4 @@
 # Just-C
 -A C/C++ program repo.  
--Follow me @ [accoders](http://www.accoders.com)!~~i'm friendi~~
+-Follow me @ [accoders](http://www.accoders.com)!~~i'm friendi~~  
+--------------------------------------------------------------------------
