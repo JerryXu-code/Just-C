@@ -8,7 +8,7 @@ __[question 1000](http://www.accoders.com/problem.php?id=1000)__ ```main(){puts(
 ***
 __[question 1001](http://www.accoders.com/problem.php?id=1001)__ ```main(){puts("   A\n  A A\n A   A\nAAAAAAA");}```
 ***
-__[question 1002](http://www.accoders.com/problem.php?id=1002)__ ```main(){puts(" *\n ***\n *****\n*******\n ***\n ***\n ***\n ***\n ***");}```
+__[question 1002](http://www.accoders.com/problem.php?id=1002)__ ```main(){puts("   *\n  ***\n *****\n*******\n  ***\n  ***\n  ***\n  ***\n  ***");}```
 ***
 __[question 1003](http://www.accoders.com/problem.php?id=1003)__```main(){int a,b;scanf("%d%d",&a,&b);printf("%d",a+b);}```
 ***
