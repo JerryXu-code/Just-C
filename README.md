@@ -6,7 +6,7 @@ u'd best use ```IE``` or something but ___not___ ```chrome```!
 ***
 __[question 1000](http://www.accoders.com/problem.php?id=1000)__ ```main(){puts("hello world");}```
 ***
-__[question 1001](http://www.accoders.com/problem.php?id=1001)__ ```main(){puts("&nbsp;&nbsp;&nbsp;A\n&nbsp;&nbsp;A A\n A&nbsp;&nbsp;&nbsp;A\nAAAAAAA");}```
+__[question 1001](http://www.accoders.com/problem.php?id=1001)__ ```main(){puts("(&nbsp;)&nbsp;&nbsp;A\n&nbsp;&nbsp;A A\n A&nbsp;&nbsp;&nbsp;A\nAAAAAAA");}```
 ***
 __[question 1002](http://www.accoders.com/problem.php?id=1002)__ ```main(){puts("&nbsp;&nbsp;&nbsp;*\n&nbsp;&nbsp;***\n *****\n*******\n&nbsp;&nbsp;***\n&nbsp;&nbsp;***\n&nbsp;&nbsp;***\n&nbsp;&nbsp;***\n&nbsp;&nbsp;***");}```
 ***
